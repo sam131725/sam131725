@@ -111,14 +111,6 @@
 
 ---
 
-### 🎯 Technical Fun & Experiments
-
-- **MCP Art Bot**: Building a bot using MCP + LangChain that generates simple pixel art from text prompts  
-- **Generative Story Agent**: Prompt chain + tool calls to dynamically generate micro narratives  
-- **Algorithm Visualizer**: Web app (React + D3) to animate sorting, graph algorithms  
-- **Chat Puzzle Game**: Interactive agent-driven riddle / puzzle chat system  
-
----
 
 ### 📁 Featured Projects
 
