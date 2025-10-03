@@ -2,11 +2,14 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 0 * * *"  # Runs at midnight UTC daily
+  workflow_dispatch:
   push:
     branches:
-      - main  # Triggers on push to the main branch
+      - main
+
+permissions:
+  contents: write  # Grants write access to repository contents
 
 jobs:
   generate:
@@ -20,7 +23,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Uses the repository owner's username
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
