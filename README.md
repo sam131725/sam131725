@@ -133,7 +133,6 @@
 
 - CodeChef: **3★**  
 - LeetCode: ~1557 rating, 500+ problems solved  
-- Winner — **Matrix Mayhem (AI competition, IIT Bhagalpur)**  
 - Semifinalist — HackVega AI/ML Hackathon  
 - Top 20% — ICPC AlgQueen  
 - 100% in Stanford’s ML course (Coursera)  
