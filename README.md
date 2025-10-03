@@ -108,7 +108,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumya1317&" alt="saumya1317" /></p>
 <p align="center">
- <img src="https://raw.githubusercontent.com/saumya1317/saumya1317/main/dist/github-contribution-grid-snake.svg?cache_bust=123" alt="snake animation" />
+ <img src="https://raw.githubusercontent.com/saumya1317/saumya1317/main/dist/github-contribution-grid-snake.svg?cache_bust=999" alt="snake animation" />
 </p>
 ---
 
