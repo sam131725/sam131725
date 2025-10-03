@@ -1,12 +1,5 @@
-```python
-def introduce():
-    name = "Saumya Rai"
-    role = "Software Engineer & AI Explorer"
-    print(f"Hi 👋, I'm {name} — {role}")
 
-if __name__ == "__main__":
-    introduce()
-<h3 align="center">Hi 👋, I’m Saumya Rai </h3>
+<h1 align="center">Hi 👋, I’m Saumya Rai </h1>
 
 <h3 align="center">A passionate software engineer & AI explorer</h3>
 
