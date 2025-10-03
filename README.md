@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I’m Saumya Rai </h1>
+<h1 align="center">Hi 👋, I’m Saumya Rai</h1>
 
 <h3 align="center">A passionate Full Stack developer & AI explorer</h3>
 
@@ -10,8 +9,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=saumya1317" alt="saumya1317" />  
   </a>  
 </p>
-
-
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
@@ -113,7 +110,6 @@
 
 ---
 
-
 ### 📁 Featured Projects
 
 - **StudyBuddy** — AI EdTech SaaS (React, Node, Mongo)  
@@ -127,20 +123,6 @@
 
 - CodeChef: **3★**  
 - LeetCode: ~1557 rating, 500+ problems solved  
-- Semifinalist — HackVega AI/ML Hackathon  
-- Top 20% — ICPC AlgQueen  
-- 100% in Stanford’s ML course (Coursera)  
-- Lead, AI Club @ IIIT Bhagalpur  
-  
-
----
-
-### 🌱 What I’m Exploring
-
-- Multi-agent systems, tool orchestration (LangChain + MCP), agent safety  
-- Retrieval-augmented generation, distributed architectures, scalable systems  
-- Open source contributions in generative AI / agent stacks  
-
----
-
-
+- Semifinalist
+::contentReference[oaicite:0]{index=0}
+ 
