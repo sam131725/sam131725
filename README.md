@@ -131,7 +131,7 @@
 - Top 20% — ICPC AlgQueen  
 - 100% in Stanford’s ML course (Coursera)  
 - Lead, AI Club @ IIIT Bhagalpur  
-- Founder, **Career AI** — taught AI tools in 30+ government schools  
+  
 
 ---
 
