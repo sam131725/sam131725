@@ -1,100 +1,107 @@
-# 👋 Hi there, I’m **Saumya Rai**
+# 👋 Hey, I'm **Saumya Rai**
 
-🎓 B.Tech Student, Computer Science & Engineering (2023-2027)  
+🎓 B.Tech Student, Computer Science & Engineering (2023–2027)  
 📍 IIIT Bhagalpur, India  
-📧 saumya.230101114@iiitbh.ac.in | 📱 +91 6388393226  
+📫 saumya.230101114@iiitbh.ac.in | +91 6388393226  
 
-[LinkedIn](https://www.linkedin.com/in/saumya-rai-5829b0285)• [GitHub](https://github.com/saumya1317) • [Portfolio](https://saumya-3d-portfolio.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/saumya-rai-5829b0285/) • [Portfolio](https://saumya-3d-portfolio.vercel.app/)
 
 ---
 
 ## 🔍 About Me
 
-- Passion for building scalable systems, AI/ML solutions, and full-stack applications  
-- Strong believer in open-source, community, and continuous learning  
-- Always experimenting with emerging technologies and playful side projects  
+Passionate about AI, full-stack systems, and building agent-tool architectures.  
+I also love experimenting with side projects and pushing boundaries in generative AI.
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🛠 Top Skills & Tech Stack
 
-| Domain | Technologies & Tools |
+Here are some of my strongest skills (with badges 🙂):
+
+| Skill | Badge / Icon |
 |---|---|
-| **Languages** | Python, JavaScript, C++, SQL |
-| **Frontend / UI** | React, Next.js, HTML, CSS, GSAP, Figma |
-| **Backend / APIs** | Node.js, Django, FastAPI, REST |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **DevOps / Infrastructure** | Docker, AWS, CI/CD, Git, GitHub Actions |
-| **Testing & QA** | PyTest, Jest |
-| **AI / ML / Agents** | Machine Learning, Deep Learning, NLP, GenAI, LangChain, MCP servers/adapters |
-| **Other Tools** | Git, Linux, Shell scripting |
+| Python | `![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)` |
+| JavaScript / TypeScript | `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)` |
+| React / Next.js | `![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)` |
+| Node.js / Django / FastAPI | `![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white)` / `![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)` / `![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)` |
+| SQL / PostgreSQL / MongoDB | `![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)` / `![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)` |
+| AWS / Docker / DevOps | `![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)` / `![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)` |
+| AI / ML / LangChain / MCP | `![ML](https://img.shields.io/badge/ML-FF6F61?style=for-the-badge&logo=scikitlearn&logoColor=white)` / `![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)` / `![MCP](https://img.shields.io/badge/MCP-0F52BA?style=for-the-badge&logo=openai&logoColor=white)` |
+
+_(You can adjust badge colors, logos, or styles as you like.)_
 
 ---
 
-## 💼 Experience & Projects
+## 📊 GitHub Stats & Activity
 
-### **Software Developer Intern** — *Edgistify*  
-🗓 May 2024 – July 2024  
-- Built backend microservices using FastAPI and PostgreSQL, improving DB query performance by ~15%  
-- Automated workflows, saving ~50 developer hours/month  
-- Integrated CI/CD pipeline, increasing deployment frequency by ~30%
+<!-- GitHub Stats Card -->
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumya1317&show_icons=true&theme=radical)  
+*(Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
 
+<!-- Streak / Contributions -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saumya1317&theme=dark)](https://git.io/streak-stats)  
+*(Powered by [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats))*
 
-### 🧩 Key Projects
-
-#### **StudyBuddy (AI EdTech SaaS)**  
-- Full-stack: React + Node.js + MongoDB  
-- 1,500+ active users  
-- Personalized learning, subscription/payments, analytics dashboards  
-
-#### **SABACHI (E-commerce Platform)**  
-- Backend: Django, Celery, PostgreSQL  
-- Containerized via Docker; scalable architecture  
-- Handles 10,000+ transactions per day  
-
-#### **Parking Monitoring System**  
-- Real-time vehicle detection using YOLO  
-- REST APIs + SMS alerts  
-- ~98% accuracy in detecting free parking spaces  
-
-#### **Agent-MCP Integration Demo**  
-- Built custom MCP server exposing tools (DB queries, search, etc.)  
-- Used `langchain-mcp-adapters` to let a LangChain agent call tools dynamically  
-- Demonstrated context-aware multi-step generation with safe tool invocations  
+<!-- Visitor Count -->
+![Visitor Count](https://profile-counter.glitch.me/saumya1317/count.svg)
 
 ---
 
-## 🏅 Achievements & Highlights
+## 📁 Featured / Pinned Projects
 
-- CodeChef: **3★** (Max Rating: 1670)  
-- LeetCode: Rating ~1557, 500+ problems solved  
-- Winner, **Matrix Mayhem** (AI competition, IIT Bhagalpur)  
-- Semifinalist, **HackVega AI/ML Hackathon**  
-- Top 20% in **ICPC AlgQueen**  
-- Scored **100%** on Stanford’s Machine Learning course (Coursera)  
-- Lead, **Artificial Intelligence Club**, IIIT Bhagalpur  
-- Founded **Career AI** with NGO Unnati: taught AI tools at 30+ government schools  
+Here are some of my active / top projects:
+
+- **StudyBuddy** — AI EdTech SaaS (React + Node + Mongo)  
+- **SABACHI** — Scalable E-commerce backend (Django, Celery)  
+- **Parking Monitoring System** — Real-time detection using YOLO + APIs  
+- **Agent-MCP Integration Demo** — Custom MCP server + LangChain agent setup  
+
+Feel free to check them out on my Github → *Pinned* section or repository list.
 
 ---
 
+## 🎯 Technical Fun & Experiments
 
+- **MCP Art Bot**: A fun bot built using MCP + LangChain that generates pixel art from text prompts  
+- **Generative Story Agent**: Prompt chains + tool calls to create micro stories / narratives dynamically  
+- **Algorithm Visualizer**: A small React + D3 app to animate search, pathfinding, sorting  
+- **Chat Puzzle Game**: Chat-based interactive puzzle where the agent poses riddles & you solve them  
 
-## 🌐 Interests & Learning Journey
+I love these mini builds because they push me to explore greener tech fields.
 
-- Diving deeper into **Generative AI**, **LangChain**, **MCP protocol & tool orchestration**  
-- Exploring **multi-agent systems**, **retrieval-augmented generation**, **agent safety**  
-- Contributing to open-source tools in the agent / GenAI space  
-- Learning systems, distributed architectures, real-world scalable deployment  
+---
+
+## 🏆 Achievements & Highlights
+
+- CodeChef: **3★**  
+- LeetCode: ~1557 rating, 500+ problems solved  
+- Winner, **Matrix Mayhem (IIT Bhagalpur AI competition)**  
+- Semifinalist, HackVega AI/ML Hackathon  
+- Top 20% in ICPC AlgQueen  
+- Scored 100% in Stanford’s Machine Learning (Coursera)  
+- Lead, AI Club @ IIIT Bhagalpur  
+- Founded **Career AI**, taught AI tools in 30+ government schools  
+
+---
+
+## 🌱 What I'm Exploring
+
+- Building **multi-agent systems**, **retrieval-augmented generation**, and **agent safety**  
+- Deep dives into **LangChain + MCP tool integration**, **distributed systems**, and **scalable architectures**  
+- Contributing to generative AI / agent frameworks & open source  
 
 ---
 
 ## 📫 Let’s Connect
 
-- LinkedIn: [https://www.linkedin.com/in/saumya-rai-5829b0285]  
+- LinkedIn: (https://www.linkedin.com/in/saumya-rai-5829b0285/)
 - GitHub: [github.com/saumya1317](https://github.com/saumya1317)  
-- Portfolio: [https://saumya-3d-portfolio.vercel.app/]  
+- Portfolio: [https://saumya-3d-portfolio.vercel.app/]
 
-> “Stay curious. Build boldly. Share generously.”
+> “Stay curious. Build boldly. Share generously.”  
 
+---
 
-⭐ Thanks for dropping by — feel free to explore my repos and reach out if you want to collaborate or chat about tech experimentation!
+⭐ Thanks for dropping by! Check out my projects, experiments, and feel free to reach out.
+
