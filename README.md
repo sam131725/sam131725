@@ -1,11 +1,11 @@
-<h1 align="center">
-  ____  _            _ _            
- / ___|| | ___   ___| | | ___  ___  
- \___ \| |/ _ \ / _ \ | |/ _ \/ __| 
-  ___) | | (_) |  __/ | |  __/\__ \ 
- |____/|_|\___/ \___|_|_|\___||___/ 
-</h1>
+```python
+def introduce():
+    name = "Saumya Rai"
+    role = "Software Engineer & AI Explorer"
+    print(f"Hi 👋, I'm {name} — {role}")
 
+if __name__ == "__main__":
+    introduce()
 <h3 align="center">Hi 👋, I’m Saumya Rai </h3>
 
 <h3 align="center">A passionate software engineer & AI explorer</h3>
