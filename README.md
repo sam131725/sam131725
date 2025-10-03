@@ -4,7 +4,7 @@
 📍 IIIT Bhagalpur, India  
 📧 saumya.230101114@iiitbh.ac.in | 📱 +91 6388393226  
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/saumya1317) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/saumya-rai-5829b0285)• [GitHub](https://github.com/saumya1317) • [Portfolio](https://saumya-3d-portfolio.vercel.app/)
 
 ---
 
