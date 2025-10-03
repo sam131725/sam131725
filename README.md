@@ -107,7 +107,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumya1317&show_icons=true&locale=en" alt="saumya1317" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumya1317&" alt="saumya1317" /></p>
-
+<p align="center">
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 ### 📁 Featured Projects
