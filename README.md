@@ -39,13 +39,6 @@
 - Automated workflows, saving ~50 developer hours/month  
 - Integrated CI/CD pipeline, increasing deployment frequency by ~30%
 
-### **Research Project — Real-time Biomedical Analytics**  
-*NIT Rourkela* | Mar 2025 – Apr 2025  
-- Ingested data from 100+ IoT sensors, built dashboards and ML pipelines  
-- Migrated from LSTM to Transformer-based model to better capture long-range dependencies  
-- Reduced data latency by ~15%, improving alert responsiveness  
-
----
 
 ### 🧩 Key Projects
 
