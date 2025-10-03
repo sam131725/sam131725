@@ -7,6 +7,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# ADD THIS PART
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,12 +24,6 @@ jobs:
           
           # The output file for the snake SVG
           outputs: dist/github-contribution-grid-snake.svg
-        
-        # You can add custom colors here
-        # For example, to make a green snake:
-        # outputs: |
-        #   dist/github-contribution-grid-snake.svg?color_snake=green
-        #   dist/github-contribution-grid-snake-dark.svg?color_snake=green&theme=dark
 
       - name: Push to repo
         run: |
