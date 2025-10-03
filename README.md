@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Saumya Rai</h1>  
+<h1 align="center">
+  ____  _            _ _            
+ / ___|| | ___   ___| | | ___  ___  
+ \___ \| |/ _ \ / _ \ | |/ _ \/ __| 
+  ___) | | (_) |  __/ | |  __/\__ \ 
+ |____/|_|\___/ \___|_|_|\___||___/ 
+</h1>
+
+<h3 align="center">Hi 👋, I’m Saumya Rai </h3>
+
 <h3 align="center">A passionate software engineer & AI explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1317&label=Profile%20views&color=0e75b6&style=flat" alt="saumya1317" /> </p>
