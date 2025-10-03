@@ -143,5 +143,4 @@
 
 ---
 
-If you want, I can send you the final `.md` (ready to use) with your live links, stylized colors, and extra tweaks. Do you want me to prepare that for you now?
-::contentReference[oaicite:0]{index=0}
+
