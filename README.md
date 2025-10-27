@@ -3,10 +3,11 @@
 <h3 align="center">A passionate Full Stack developer & AI explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1317&label=Profile%20views&color=0e75b6&style=flat" alt="saumya1317" /> </p>
-
 <p align="left">
-    [![Hacktoberfest 2025: Level 0 Registered](https://holopin.me/cmh3ly72i001fjs04dud3sm38)](https://holopin.io/hacktoberfest2025/userbadge/cmh3ly72i001fjs04dud3sm38)
-  
+    <a href="https://holopin.io/hacktoberfest2025/userbadge/cmh3ly72i001fjs04dud3sm38">
+    <img src="https://holopin.me/cmh3ly72i001fjs04dud3sm38" alt="Hacktoberfest 2025: Level 0 Registered" />
+  </a>
+  
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=saumya1317" alt="saumya1317" />
   </a>
