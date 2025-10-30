@@ -125,6 +125,7 @@
 - **Agent-MCP Demo** — Custom MCP server + LangChain agent hybrid  
 
 ---
+[![An image of @poonam146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saumya1317)](https://holopin.io/@saumya1317)
 
 ### 🏅 Achievements & Highlights
 
