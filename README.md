@@ -4,8 +4,6 @@
 
 <p align="left">
 
-    <img src="https://holopin.me/cmh3ly72i001fjs04dud3sm38?v=1" alt="Hacktoberfest 2025: Level 0 Registered" />
-  </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=saumya1317&v=1" alt="saumya1317" />
