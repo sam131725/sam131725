@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Saumya Rai</h1>
 
 <h3 align="center">A passionate Full Stack developer & AI explorer</h3>
-[![An image of @poonam146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saumya1317)](https://holopin.io/@saumya1317)
+
 <p align="left">
 
     <img src="https://holopin.me/cmh3ly72i001fjs04dud3sm38?v=1" alt="Hacktoberfest 2025: Level 0 Registered" />
@@ -123,7 +123,7 @@
 - **SABACHI** — E-commerce backend (Django, Celery)  
 - **Parking Monitoring System** — Real-time detection using YOLO + APIs  
 - **Agent-MCP Demo** — Custom MCP server + LangChain agent hybrid  
-
+[![An image of @saumya1317's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saumya1317)](https://holopin.io/@saumya1317)
 ---
 
 
