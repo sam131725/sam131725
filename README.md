@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Saumya Rai</h1>
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="center">A passionate Full Stack developer & AI explorer</h3>
 
