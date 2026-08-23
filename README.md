@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A2E&height=180&section=header&text=Hi%2C+I%27m+Saumya+%F0%9F%91%8B&fontSize=40&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Full-Stack+Developer+%26+AI+Explorer&descAlignY=58&descSize=18" alt="Wave banner header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A2E&height=180&section=header&text=Hi,%20I'm%20Saumya%20%F0%9F%91%8B&fontSize=40&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20AI%20Explorer&descAlignY=58&descSize=18" alt="Wave banner header" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&height=120&lines=%24+whoami;saumya+-+full-stack+dev+%26+AI+explorer;%24+cat+skills.txt;APIs+%2B+ML+pipelines+%2B+agents;%24+git+log+--oneline+-1;building+things+end+to+end...;%24+echo+%22let's+connect%22" alt="Terminal-style typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1nbmc0eXBwaWQ1czR1NWkzZ25qMHB2OHVmYmxvdzA2aTZzMjRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVwLHawsxwWabDsRHn/giphy.gif" alt="Matrix-style falling code rain" width="450" />
 </p>
 
 <p align="center">
