@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Saumya 👋</h1>
-
-<h3 align="center">Full-Stack Developer & AI Explorer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A2E&height=180&section=header&text=Hi%2C+I%27m+Saumya+%F0%9F%91%8B&fontSize=40&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Full-Stack+Developer+%26+AI+Explorer&descAlignY=58&descSize=18" alt="Wave banner header" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&height=120&lines=%24+whoami;saumya+-+full-stack+dev+%26+AI+explorer;%24+cat+skills.txt;APIs+%2B+ML+pipelines+%2B+agents;%24+git+log+--oneline+-1;building+things+end+to+end...;%24+echo+%22let's+connect%22" alt="Terminal-style typing animation" />
@@ -106,6 +106,16 @@ I'm a certified late-night coder — most of my best commits happen after everyo
 - CodeChef: **3★**
 - LeetCode: **~1557** rating, 500+ problems solved
 
+### 💬 Random Dev Wisdom
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A2E&height=100&section=footer" alt="footer wave" width="100%" />
+</p>
 
 <p align="center"><em>Thanks for stopping by — always happy to connect on LinkedIn!</em></p>
