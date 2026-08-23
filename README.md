@@ -10,7 +10,32 @@
   <a href="https://linkedin.com/in/saumya-rai-5829b0285" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sam131725" target="_blank">
+    <img src="https://img.shields.io/github/followers/sam131725?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sam131725&label=Profile+Views&color=39FF14&style=flat" alt="Profile views" />
 </p>
+
+<details>
+<summary>🎯 <b>What I'm up to right now</b> (click to expand)</summary>
+<br>
+
+- 🔭 Currently building **MediNet** — an offline-first Go backend for emergency medicine kiosks
+- 🧠 Deep in agentic AI right now — LangGraph, RAG pipelines, multi-agent orchestration
+- 💳 Learning the internals of payment systems — idempotency, transaction safety, distributed reliability
+- 🌱 Always chasing the next hackathon
+
+</details>
+
+<details>
+<summary>⚡ <b>Fun fact</b> (click to expand)</summary>
+<br>
+
+I'm a certified late-night coder — most of my best commits happen after everyone else has logged off.
+
+</details>
 
 ---
 
@@ -53,6 +78,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sam131725/sam131725/output/github-snake.svg">
     <img alt="A snake game rendered from Saumya's GitHub contribution graph" src="https://raw.githubusercontent.com/sam131725/sam131725/output/github-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam131725&theme=react-dark&hide_border=true&area=true" alt="sam131725's contribution activity graph" width="100%" />
 </p>
 
 ---
