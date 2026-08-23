@@ -33,25 +33,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saumya1317&show_icons=true&locale=en&hide_border=true" alt="saumya1317's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumya1317&show_icons=true&locale=en&layout=compact&hide_border=true" alt="saumya1317's top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sam131725&show_icons=true&locale=en&hide_border=true" alt="sam131725's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam131725&show_icons=true&locale=en&layout=compact&hide_border=true" alt="sam131725's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saumya1317&hide_border=true" alt="saumya1317's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam131725&hide_border=true" alt="sam131725's streak stats" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saumya1317&v=1" alt="saumya1317's trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sam131725&v=1" alt="sam131725's trophies" />
   </a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumya1317/saumya1317/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saumya1317/saumya1317/output/github-snake.svg">
-    <img alt="A snake game rendered from Saumya's GitHub contribution graph" src="https://raw.githubusercontent.com/saumya1317/saumya1317/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sam131725/sam131725/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sam131725/sam131725/output/github-snake.svg">
+    <img alt="A snake game rendered from Saumya's GitHub contribution graph" src="https://raw.githubusercontent.com/sam131725/sam131725/output/github-snake.svg">
   </picture>
 </p>
 
